@@ -19,7 +19,7 @@ Our initial design is based on a “Roller and Funnel” system. The funnel serv
 Inside the tunnel, an infrared (IR) sensor detects the number of pills being dispensed. Once the desired quantity is reached, the sensor signals the roller to stop, ensuring precise dispensing. This design combines simplicity and accuracy, making it ideal for pill distribution.
 <img src="https://github.com/NathanY12345/NathanY12345.github.io/blob/main/Screenshot%202025-02-11%20at%2022.52.52.png" alt="drawing" width="200"/>
 ### CHANGE ME: ADD ADVANTAGES
-![w](https://github.com/NathanY12345/NathanY12345.github.io/blob/main/Screenshot%202025-02-11%20at%2022.52.52.png)
+
 
 While the “Roller and Funnel” design has its advantages, it also presents several significant disadvantages
 
