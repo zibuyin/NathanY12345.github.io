@@ -17,7 +17,7 @@ For the initial designs, I chose to use CAD (Computer-Aided Design) software. Th
 Our initial design is based on a “Roller and Funnel” system. The funnel serves as a storage container for the pills before they are dispensed. The roller, functioning as a conveyor belt, moves the pills from the funnel towards a dispensing mechanism. Pills settle into evenly spaced slots on the roller, which then carries them down into a tunnel.
 
 Inside the tunnel, an infrared (IR) sensor detects the number of pills being dispensed. Once the desired quantity is reached, the sensor signals the roller to stop, ensuring precise dispensing. This design combines simplicity and accuracy, making it ideal for controlled pill distribution.
-
+<img src="https://github.com/NathanY12345/NathanY12345.github.io/blob/main/Screenshot%202025-02-11%20at%2022.52.52.png" alt="drawing" width="200"/>
 ### CHANGE ME: ADD ADVANTAGES
 
 
