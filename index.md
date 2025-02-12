@@ -1,6 +1,6 @@
 # Automatic Pill Dispenser
 
-### Disigned By: Nathan Yin on Feb 11 2025
+### Disigned By: Nathan Yin, Aahil Hasan, Grace Chang on Feb 11 2025
 
 ---
 
