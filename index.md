@@ -40,3 +40,22 @@ While the “Roller and Funnel” design has its advantages, it also presents se
 •	To precisely rotate the roller, the design relies on a stepper motor, which adds complexity to the circuit and raises production costs.
 
 •	This further complicates the design and detracts from its intended simplicity and affordability.
+---
+## Market Research
+
+Today, we conducted a market research study to better understand user needs and analyze our competitors. The goal was to gather insights into what users prioritize in a pill dispenser, such as features, ease of use, and affordability, while also identifying the strengths and weaknesses of existing solutions. This research will guide us in designing a product that stands out in the market and truly meets user expectations.
+
+This is the link to the form:
+
+ https://forms.office.com/pages/designpagev2.aspx?analysis=false&origin=EmailNotification&subpage=design&id=OjY35I1uCE-7qWwzDXODV6d3dSf6yBRNqeJBz273M01UNEtRRlZXTE9WWElXSk02NzAwWEpRTThBUi4u&tab=0
+
+<img src="[https://github.com/NathanY12345/NathanY12345.github.io/blob/main/Screenshot%202025-02-11%20at%2022.52.52.png](https://github.com/NathanY12345/NathanY12345.github.io/blob/main/Screenshotpmr%202025-02-12%20at%2010.36.52.png)" alt="drawing" width="200"/>
+**Survey Distribution Plan**
+
+We decided to first distribute the survey to everyone in the school, reaching approximately 500 people. The participants range in age from 12 to 40+, representing various races and genders. This diverse group will provide a broad spectrum of insights, enhancing the reliability and inclusiveness of the data collected.
+
+To distribute the survey we contacted our school (Cambridge Academy For Science and Technology) reception desk to send e-mails to everyone in the school, instead of sending them one by one, because it is not nice to do it that way and its also really slow
+
+**Survey Distribution Method**
+
+To efficiently distribute the survey, we contacted the reception desk at our school and requested them to send the survey email to everyone in the school. This approach was chosen over sending emails individually, as it is not only more respectful but also significantly faster and more efficient.
