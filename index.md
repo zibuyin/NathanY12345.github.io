@@ -81,6 +81,6 @@ Today, we received 22 responses to our survey. We will continue collecting respo
 
 Adding to the survey findings: Most respondents have never used a pill dispenser or organizer before. However, a significant number of them take pills regularly, with over 50% taking medication monthly and 30% taking it daily. Remarkably, 96% have never used any kind of pill dispenser or organizer.
 
-<img src="relative/path/in/repository/to/image.svg" width="128"/>
+<img src="[relative/path/in/repository/to/image.svg](https://github.com/NathanY12345/NathanY12345.github.io/blob/main/Screenshot%202025-02-13%20at%2012.12.36.png)" width="128"/>
 
 ## NOTE: This is not the final data, we will update the data again soon.
