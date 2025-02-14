@@ -77,10 +77,8 @@ Today, we received 22 responses to our survey. We will continue collecting respo
 
 “Issues with different sized pills getting caught in the mechanisms, or if medications are switched. if someone went from 2 pills of one concentration, to 1 pill of double concentration (so still same overall dosage) would the device be easy to adapt to that change? or would it accidentally dispense the double dosage?”
 
-![https://github.com/NathanY12345/NathanY12345.github.io/blob/main/Screenshot%202025-02-13%20at%2012.12.36.png)
+![image](https://github.com/NathanY12345/NathanY12345.github.io/blob/main/Screenshot%202025-02-13%20at%2012.12.36.png)
 
 Adding to the survey findings: Most respondents have never used a pill dispenser or organizer before. However, a significant number of them take pills regularly, with over 50% taking medication monthly and 30% taking it daily. Remarkably, 96% have never used any kind of pill dispenser or organizer.
-
-<img src="[relative/path/in/repository/to/image.svg](https://github.com/NathanY12345/NathanY12345.github.io/blob/main/Screenshot%202025-02-13%20at%2012.12.36.png)" width="128"/>
 
 ## NOTE: This is not the final data, we will update the data again soon.
